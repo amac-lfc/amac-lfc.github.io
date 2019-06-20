@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+# Assigments
+
+
+| Labs         | Description       | Due Date |
+|:-------------|:------------------|:------|
+| [Lab 0](labs/0.pdf)      | Introduction to Python | 06/26/ at 6 pm  |
+| [Lab 1](labs/1.pdf)       | Introduction to Python | 06/26/ at 6 pm  |
+
+
+# Resources
+
+*   [Python Essential](https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf)
+*   [GitHub guide](https://lcarrico.github.io/git_lesson.html) by Leo Carrico
+
+# Books
+
+* **Elementary Numerical Analysis**, *by Kendall Atkinson, Weimin Han*
+* **Numerical Analysis**, *by Richard L. Burden, J. Douglas Faires, Annette M. Burden*
+* **Introduction to Computational Mathematics**, *by Xin-She Yang*
