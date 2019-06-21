@@ -4,7 +4,7 @@ layout: default
 
 Projects
 
-* [Multilevel Methods for Volume Method]([m240.html](https://github.com/lfc-math-cs/mmfv-code))
+* [Multilevel Methods for Volume Method](https://github.com/lfc-math-cs/mmfv-code)
 
 * [Machine Learning for DNA](https://github.com/lfc-math-cs/dna-code)
 
