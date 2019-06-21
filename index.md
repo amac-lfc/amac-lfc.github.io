@@ -8,4 +8,4 @@ Projects
 
 * [Machine Learning for DNA](https://github.com/lfc-math-cs/dna-code)
 
-* [Machine Learning for CVM Subreddit](https://github.com/lfc-math-cs/CMV)
+* [Machine Learning for Changed My View Subreddit](https://github.com/lfc-math-cs/CMV)
