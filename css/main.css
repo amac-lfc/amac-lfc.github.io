@@ -26,6 +26,10 @@ body {
   /* margin-bottom: 1.5rem; */
 }
 
+code{
+  color:#ff79c6 !important;
+}
+
 h1, h2, h3{
   color: #ffb86c;
   margin-top: 1rem;
