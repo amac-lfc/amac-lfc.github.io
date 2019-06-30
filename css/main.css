@@ -93,7 +93,7 @@ hr { display: block; height: 1px;
 }
 
 .alert-custom{
-  background: #44475a;
+  background: #6272a4;
 }
 
 .float-left{
@@ -138,6 +138,10 @@ a.back-to-top i {
 a.back-to-top:hover, a.back-to-top:focus {
   text-decoration: none;
   border-bottom: none;
+}
+
+.text-muted{
+  color: #8be8fd98 !important;
 }
 
 .navbar {
