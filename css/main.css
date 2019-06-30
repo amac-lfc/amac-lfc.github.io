@@ -19,9 +19,11 @@ body {
   backface-visibility: hidden;
   overflow-x: hidden;
 }
+
 .card {
   background: #44475a;
-  margin-bottom: 1.5rem;
+  /* border: #bd93f9 solid 1px; */
+  /* margin-bottom: 1.5rem; */
 }
 
 h1, h2, h3{
