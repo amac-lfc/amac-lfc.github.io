@@ -44,6 +44,7 @@ a {
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
   color : #50fa7b;
+  border-bottom: 2px solid #50fa7a62;
 }
 
 a.btn:hover{
@@ -53,6 +54,7 @@ a.btn:hover{
 a:hover {
   text-decoration: none;
   color: #f1fa8c;
+  border-bottom: 2px solid #f1fa8c;
   /* border-bottom: 1.5px solid #0046ce; */
 }
 
