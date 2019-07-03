@@ -148,6 +148,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   border-bottom: none;
 }
 
+.card-title
+{
+  color: #50fa7b !important;
+}
 .text-muted{
   color: #bd93f9 !important;
 }
