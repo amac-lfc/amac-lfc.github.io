@@ -7,6 +7,7 @@
 {% seo %}
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
@@ -19,20 +20,13 @@
 
   </head>
   <body class="{{ page.colorspace }}">
-      {% if site.show_header %}
-        <div id="header">
-          <nav>
-            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-            {% if site.show_downloads %}
-              <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-              <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-              <li class="title">DOWNLOADS</li>
-            {% endif %}
-          </nav>
-        </div><!-- end header -->
-      {% endif %}
+      <nav class="navbar navbar-expand-lg bg-custom navbar-fixed-top">
+        <div class="container">
+          <a class="navbar-brand colortitle" href="index.html">LFC MATH/CS</a>
+        </div>
+      </nav>
 
-    <div class="wrapper">
+    <div class="container">
       {% if site.show_header %}<section>
       {% else %}<section class="no-header">{% endif %}
         <div id="title">

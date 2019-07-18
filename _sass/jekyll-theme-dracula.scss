@@ -1,5 +1,5 @@
-@import "normalize";
-@import "fonts";
+// @import "normalize";
+// @import "fonts";
 @import "variables";
 @import "mixins";
 @import "rouge-dracula.scss";
@@ -84,6 +84,22 @@ a small {
   display:block;
 }
 
+
+.bg-custom{
+  background: #282a36 !important;
+  /* background: #282a36 !important; */
+  border-bottom: 1px solid #44475a !important;
+  margin-bottom: 2rem;
+}
+
+a.colortitle{
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  font-size: 200%;
+  border-bottom: None;
+}
 
 ul{
   list-style-image:url('../images/bullet.png');
