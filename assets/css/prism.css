@@ -30,6 +30,15 @@ cyan      #2aa198
 green     #859900
 */
 
+code.highlighter-rouge{
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	color:#f8f8f2;
+	background: #44475a;
+	font-size:1em;
+	margin: 0 4px;
+	padding: 4px 6px;
+}
+
 code[class*="language-"],
 pre[class*="language-"] {
 	color: #657b83; /* base00 */

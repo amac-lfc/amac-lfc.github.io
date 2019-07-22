@@ -1,3 +1,3 @@
 # LFC-MATH-CS
 
-Github page for Lake Forest College Math and Computer Science department.
+Github page for Lake Forest College Mathematics and Computer Science department.
