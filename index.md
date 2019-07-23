@@ -36,7 +36,7 @@ Below are the different research projects undertaken by undergraduate students a
     <div class="col-sm-6 py-2">
       <div class="card card-body h-100">
         <h5 class="card-title">MMFV</h5>
-        <!-- <h6 class="card-subtitle mb-2 text-muted">By Dipika Subramaniam</h6> -->
+        <h6 class="card-subtitle mb-2 text-muted">By Dipika Subramaniam</h6>
         <p class="card-text">
         Multilevel Methods for Finite Volume methods for the Shallow Water Equations.
         <br/>
@@ -50,7 +50,7 @@ Below are the different research projects undertaken by undergraduate students a
     <div class="col-sm-6 py-2">
       <div class="card h-100 card-body">
         <h5 class="card-title">DNA</h5>
-        <!-- <h6 class="card-subtitle mb-2 text-muted">By Fenn Napier</h6> -->
+        <h6 class="card-subtitle mb-2 text-muted">By Fenn Napier</h6>
         <p class="card-text">
         This project focuses on applying machine learning and statistical algorithms on the human genome to predict colorectal cancer.
         </p>
@@ -62,7 +62,7 @@ Below are the different research projects undertaken by undergraduate students a
     <div class="col-sm-6 py-2">
       <div class="card card-body h-100">
         <h5 class="card-title">CMV</h5>
-        <!-- <h6 class="card-subtitle mb-2 text-muted">By Leonardo Carrico</h6> -->
+        <h6 class="card-subtitle mb-2 text-muted">By Leonardo Carrico</h6>
         <p class="card-text">
         Applying machine learning to predict if a comment will change the view of the OP in the subreddit Change My View.
         </p>
