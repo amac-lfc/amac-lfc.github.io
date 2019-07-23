@@ -43,7 +43,7 @@ Below are the different research projects undertaken by undergraduate students a
         <br/>
         </p>
         <div class="card-footer">
-           <span class="sponsor">Funded by the Math Departement.</span>
+           <span class="sponsor">Funded by the Math Department.</span>
         </div>
       </div>
     </div>
