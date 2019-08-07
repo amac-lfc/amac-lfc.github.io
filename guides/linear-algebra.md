@@ -6,10 +6,7 @@ layout: default
 
 ## Books
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/#current_version), Jim Hefferon
-* [A Byte of Python](https://python.swaroopch.com/)
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-* [Python 3 Official Tutorial](https://docs.python.org/3/tutorial/index.html)
-* [Python Practice Book](https://anandology.com/python-practice-book/index.html)
+* [Linear Algebra and Differential Equations](https://math.berkeley.edu/~giventh/papers/ode.pdf), Alexander Givental
 
 ## Online Courses
 * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8&feature=plcp),  Prof. Gilbert Strang
