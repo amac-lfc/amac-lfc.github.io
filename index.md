@@ -94,5 +94,13 @@ Below are the different research projects undertaken by undergraduate students a
         </p>
       </div>
     </div>
+    <div class="col-sm-6 py-2">
+      <div class="card h-100 card-body">
+        <h5 class="card-title"><a href="guides/linear-algebra.html">Learning Linear Algebra</a></h5>
+        <p class="card-text">
+        A list of free online courses and books to learn linear algebra.
+        </p>
+      </div>
+    </div>
   </div>
 </div>

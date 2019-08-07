@@ -19,6 +19,7 @@ layout: default
 * [Sebastian Thrun MOOCs and Free Online Courses](https://www.mooc-list.com/instructor/sebastian-thrun)
 * [Neural Networks and Deep Learning](https://www.coursera.org/lecture/neural-networks-deep-learning/geoffrey-hinton-interview-dcm5r), Coursera
 * [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/), MIT
+* [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW), edX
 
 ## Tests/Projects
 * [kaggle](https://www.kaggle.com/)
