@@ -37,5 +37,5 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 Commit messages capture the history of your changes.
 Once you are done making your changes you need to do the commit them to Github using the following commands:
 <pre class="command-line"><code class="language-bash">git add each-file-you-modified
-git commit "Explain what your changed"
+git commit -m "Explain what your changed"
 git push</code></pre>
