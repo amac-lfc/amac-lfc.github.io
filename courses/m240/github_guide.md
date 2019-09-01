@@ -42,7 +42,7 @@ git push</code></pre>
 
 ## 4. Pull
 
-If you already have clone the repository on your computer, you just need to pull to download your last changes
+If you already have cloned the repository on your computer, you just need to pull to download your lastest changes
 <pre class="command-line"><code class="language-bash">git pull
 </code></pre>
 
