@@ -39,3 +39,13 @@ Once you are done making your changes you need to do the commit them to Github u
 <pre class="command-line"><code class="language-bash">git add each-file-you-modified
 git commit -m "Explain what your changed"
 git push</code></pre>
+
+## 4. Pull
+
+If you already have clone the repository on your computer, you just need to pull to download your last changes
+<pre class="command-line"><code class="language-bash">git pull
+</code></pre>
+
+## 5. To know more
+
+see [GitHub Handbook](https://guides.github.com/introduction/git-handbook/)
