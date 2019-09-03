@@ -27,7 +27,7 @@ In order to write your programs you will need
 
 | Labs         | Descriptions      | Due Date |
 |:-------------|:------------------|:------|
-| <a href="labs/0.pdf">Lab 0</a> | Introduction to Python | 09/03 @ 1 pm |
+| <a href="labs/0.pdf">Lab 0</a> | Introduction to Python ( [Solution](labs/solution_Lab0.zip) ) | 09/03 @ 1 pm |
 | <a href="labs/1_Taylor.pdf">Lab 1</a>| Taylor Polynomials | TBA |
 | <a href="labs/2_Rootfinding.pdf">Lab 2</a> | Roots Finding | TBA |
 | <a href="labs/3_Polynomial_Interpolation.pdf">Lab 3</a> | Polynomials of Interpolation| TBA |
