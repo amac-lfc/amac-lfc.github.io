@@ -10,7 +10,7 @@ layout: default
 ## Instruction
 
 You will submit you work through your **GitHub repository**, see the <a href="github_guide.html">GuitHub's guide</a> to know more. Your submission should contain
-* A <b>report</b> in PDF format. To write our report you can use <b>Word</b> or <b>LaTeX</b>. I recommend 
+* A <b>report</b> in PDF format. To write our report you can use <b>Word</b> or <b>LaTeX</b>. I recommend
 <a href="https://typora.io/">Typora</a>,  <a href="https://www.overleaf.com/">Overleaf</a>,  or <a href="https://www.lyx.org/">LyX</a>.
 * A <b>README</b> explaining which files to run. Your readme needs to be called `README.md` and should be written in Markdown. To write in Markdown you can use <a href="https://code.visualstudio.com/">Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, <a href="https://remarkableapp.github.io/">Remarkable App</a>.
 * All your <b>Python's files</b>. (.py).
@@ -28,7 +28,7 @@ In order to write your programs you will need
 | Labs         | Descriptions      | Due Date |
 |:-------------|:------------------|:------|
 | <a href="labs/0.pdf">Lab 0</a> | Introduction to Python ( [Solution](labs/solution_Lab0.zip) ) | 09/03 @ 1 pm |
-| <a href="labs/1_Taylor.pdf">Lab 1</a>| Taylor Polynomials | TBA |
+| <a href="labs/1_Taylor.pdf">Lab 1</a>| Taylor Polynomials | 09/11 @ 2:30 pm |
 | <a href="labs/2_Rootfinding.pdf">Lab 2</a> | Roots Finding | TBA |
 | <a href="labs/3_Polynomial_Interpolation.pdf">Lab 3</a> | Polynomials of Interpolation| TBA |
 | <a href="labs/4_integration_differentiation.pdf">Lab 4</a> | Integration an Differentiation | TBA |
@@ -39,7 +39,7 @@ In order to write your programs you will need
 | <a href="labs/9_Regression.pdf">Lab 9</a> | Linear Regression (<a href="labs/car_efficiency.csv">car_efficiency.csv</a>) | TBA |
 | <a href="labs/FinalProject.pdf">Final Project</a> | Solving the Heat and Wave Equations using finite diffrence method | TBA |
 
-## Resources 
+## Resources
 
 <div class="row">
   <div class="col-sm-4 py-2">
@@ -47,7 +47,7 @@ In order to write your programs you will need
      <h5 class="card-title"><a href="https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf">Python Essential</a></h5>
      <h6 class="card-subtitle mb-2 text-muted">by Jeffrey Humpherys and Tyler J. Jarvis</h6>
       <p class="card-text">
-      The Python Essentials labs introduce Python and its scientific computing tools. 
+      The Python Essentials labs introduce Python and its scientific computing tools.
       </p>
     </div>
   </div>
@@ -78,7 +78,7 @@ In order to write your programs you will need
       <h5 class="card-title"><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a></h5>
       <h6 class="card-subtitle mb-2 text-muted">By Adam Pritchard</h6>
       <p class="card-text">
-      This is a quick reference and showcase to undertand Markdown.
+      This is a quick reference and showcase to understand Markdown.
       </p>
     </div>
   </div>
@@ -106,7 +106,7 @@ In order to write your programs you will need
       <h5 class="card-title">Elementary Numerical Analysis</h5>
       <h6 class="card-subtitle mb-2 text-muted">By Kendall Atkinson, Weimin Han</h6>
       <p class="card-text">
-          Covers basic topics as well as approximation methods, construction of algorithms, 
+          Covers basic topics as well as approximation methods, construction of algorithms,
           iteration methods, error analysis, stability, ...
       </p>
     </div>
@@ -148,7 +148,7 @@ In order to write your programs you will need
       <h5 class="card-title"><a href="https://python.swaroopch.com/">A Byte of Python</a></h5>
       <h6 class="card-subtitle mb-2 text-muted">By Swaroop C. H.</h6>
       <p class="card-text">
-      "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. 
+      "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience.
       </p>
     </div>
   </div>
