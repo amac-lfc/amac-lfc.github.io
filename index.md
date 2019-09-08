@@ -71,6 +71,18 @@ Below are the different research projects undertaken by undergraduate students a
         </div>
       </div>
     </div>
+    <div class="col-sm-6 py-2">
+      <div class="card card-body h-100">
+        <h5 class="card-title">New Year Resolutions</h5>
+        <h6 class="card-subtitle mb-2 text-muted">By Leonardo Carrico</h6>
+        <p class="card-text">
+          Predicting if a man or woman made a particular resolution based on the contents of the tweet as well as predicting what region the tweet originated from based on the contents of the tweet.
+        </p>
+        <div class="card-footer">
+          <span class="sponsor"></span>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
