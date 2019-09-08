@@ -88,7 +88,7 @@ Below are the different research projects undertaken by undergraduate students a
         <h5 class="card-title">Shocks in College Football</h5>
         <h6 class="card-subtitle mb-2 text-muted">By Emma Juettner</h6>
         <p class="card-text">
-          Statisticak analysis about the intensity and rate of helmet to helmet contact in college football.
+          Statistical analysis on the intensity and rate of helmet contacts in college football.
         </p>
         <div class="card-footer">
           <span class="sponsor"></span>
