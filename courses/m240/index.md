@@ -29,7 +29,7 @@ In order to write your programs you will need
 |:-------------|:------------------|:------|
 | <a href="labs/0.pdf">Lab 0</a> | Introduction to Python ( [Solution](labs/solution_Lab0.zip) ) | 09/03 @ 1:00 pm |
 | <a href="labs/1_Taylor.pdf">Lab 1</a>| Taylor Polynomials | 09/13 @ 7:00 pm |
-| <a href="labs/2_Rootfinding.pdf">Lab 2</a> | Roots Finding | TBA |
+| <a href="labs/2_Rootfinding.pdf">Lab 2</a> | Roots Finding | 09/23 @ 11 pm |
 | <a href="labs/3_Polynomial_Interpolation.pdf">Lab 3</a> | Polynomials of Interpolation| TBA |
 | <a href="labs/4_integration_differentiation.pdf">Lab 4</a> | Integration an Differentiation | TBA |
 | <a href="labs/5_Solving_linear_system.pdf">Lab 5</a> | Solving Linear Systems | TBA |
