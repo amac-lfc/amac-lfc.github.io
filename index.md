@@ -23,6 +23,14 @@ layout: default
         </p>
       </div>
     </div>
+    <div class="col-sm-6 py-2">
+      <div class="card card-body h-100">
+        <h5 class="card-title"><a href="amac/">AMAC</a></h5>
+        <p class="card-text">
+        Applied Mathematics and Advanced Computation Club
+        </p>
+      </div>
+    </div>
   </div>
 </div>
 
