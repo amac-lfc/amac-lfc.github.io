@@ -25,7 +25,7 @@ Results: you see they spend a large amount fo time on photo uploading for there 
 Action: improve the Photo upload process by allowing batch uploads. Develop predictive models for diffrent research<br/><br/>
 Create backend and support existing architecture of things like MySQL databases and websight user analytics
 
-<br/><br/>
+<br/>
 
 **Data Engineers** <br/>
 Develops and constructs architecure like data bases and data tracking tools logisticts and operational research 
