@@ -1,5 +1,3 @@
-![AMAC](https://raw.githubusercontent.com/lfc-math-cs/lfc-math-cs.github.io/master/amac/amac.png)
-
  <img src="https://raw.githubusercontent.com/lfc-math-cs/lfc-math-cs.github.io/master/amac/amac.png" alt="AMAC" width="50%"> 
 
 ## Data science
