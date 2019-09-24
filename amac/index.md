@@ -19,30 +19,22 @@
 
 You gather all the information needed to answer big questions 
 
-Q: which users spend the most time on the shopify and why
-    
-    Method: take the top 90th percentile users in terms of time spend and aggregate there user behavior by activity and compare to the rest of the users
-
-    Results: you see they spend a large amount fo time on photo uploading for there stre because they need to uploade multiple images per item for multiple perspect ives
-
-    Action: improve the Photo upload process by allowing batch uploads. Develop predictive models for diffrent research
-
+Q: which users spend the most time on the shopify and why</br>
+Method: take the top 90th percentile users in terms of time spend and aggregate there user behavior by activity and compare to the rest of the users</br></br>
+Results: you see they spend a large amount fo time on photo uploading for there stre because they need to uploade multiple images per item for multiple perspect ives</br></br>
+Action: improve the Photo upload process by allowing batch uploads. Develop predictive models for diffrent research</br></br>
 Create backend and support existing architecture of things like MySQL databases and websight user analytics
 
+</br></br></br>
 
+Data Engineers </br>
+Develops and constructs architecure like data bases and data tracking tools logisticts and operational research 
 
-Data Engineers
-    
-    Develops and constructs architecure like data bases and data tracking tools
-	logisticts and operational research 
+Data Analytics </br>
+analysis data with descriptive statistics to build models and find isights or patterns in data that could be useful to companies
 
-Data Analytics 
-	
-    analysis data with descriptive statistics to build models and find isights or patterns in data that could be useful to companies
-
-Research Scientists/ Data Science Core/ ML engineers		
-	
-    Heavy research fosuc with predictive modeling and large scale data prossesing to interprite results of generated models
+Research Scientists/ Data Science Core/ ML engineers</br>		
+Heavy research fosuc with predictive modeling and large scale data prossesing to interprite results of generated models
 
 ## TOPICS
 
