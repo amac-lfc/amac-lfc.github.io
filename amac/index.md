@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/lfc-math-cs/lfc-math-cs.github.io/master/amac/amac.png" alt="AMAC" width="50%"> 
+<img src="https://raw.githubusercontent.com/lfc-math-cs/lfc-math-cs.github.io/master/amac/amac.png" class="img-fluid" alt="Responsive image">
 
 ## Data science
 
