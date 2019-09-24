@@ -75,6 +75,5 @@ Observed data is from random samples of skewed normal distributions
 Time series order of difference equations (order=max lag included on the right side) 
 11. Predicting nr of language speakers:  <br>
 Malthusian Growth Model (population growth rate does not change over time) - can use to measure a population at one point in time or a part of the population which has a certain characteristic at one point in time or Logistic growth model  
-
 12. Tikhonov Regularization (known in stats as ridge regression) - also known as a machine learning algorithm <br>
 The standard approach is OLS linear regression, however if no x satisfies the equation (or more than one x does) [the solution is not unique] the problem is said to be ill posed. In such cases, OLS estimation leads to an over-fitter or under-fitted set of equations. Tikhonov regularization is used to give preference to a particular solution with desirable properties. Can be used for general multivariate normal distributions for x.  
