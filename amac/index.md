@@ -1,4 +1,4 @@
-![AMAC](amac.png)
+![AMAC](https://raw.githubusercontent.com/lfc-math-cs/lfc-math-cs.github.io/master/amac/amac.png)
 
 ## Data science
 
