@@ -76,7 +76,7 @@ Below are the different research projects undertaken by undergraduate students a
         <h5 class="card-title">New Year Resolutions</h5>
         <h6 class="card-subtitle mb-2 text-muted">By Lauren Giurini</h6>
         <p class="card-text">
-          Predicting if a man or woman made a particular resolution based and predicting what region the tweet originated from based on the contents of the tweet.
+          Predicting the topics of a new year resolution tweet based on the  gender  of the person who made the tweet and the region where the tweet was made.
         </p>
         <div class="card-footer">
           <span class="sponsor"></span>
