@@ -32,7 +32,7 @@ In order to write your programs you will need
 | <a href="labs/2_Rootfinding.pdf">Lab 2</a> | Roots Finding | 09/23 @ 11:00 pm |
 | <a href="labs/3_Polynomial_Interpolation.pdf">Lab 3</a> | Polynomials of Interpolation| 10/06 @ 4:00 pm |
 | <a href="labs/4_integration_differentiation.pdf">Lab 4</a> | Integration an Differentiation | 10/13 @ 4:00 pm |
-| <a href="labs/5_Solving_linear_system.pdf">Lab 5</a> | Solving Linear Systems | TBA |
+| <a href="labs/5_Solving_linear_system.pdf">Lab 5</a> | Solving Linear Systems | 10/27 @ 4:00 pm |
 | <a href="labs/6_Iterative_Methods.pdf">Lab 6</a> | Iterative Methods | TBA |
 | <a href="labs/7_Nonlinear_system.pdf">Lab 7</a> | Solving Nonlinear Systems | TBA |
 | <a href="labs/8_Solving_ODE.pdf">Lab 8</a> | Solving Ordinary Differentiation Equations | TBA |
