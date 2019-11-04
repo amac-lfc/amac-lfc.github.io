@@ -34,7 +34,7 @@ In order to write your programs you will need
 | <a href="labs/4_integration_differentiation.pdf">Lab 4</a> | Integration an Differentiation | 10/13 @ 4:00 pm |
 | <a href="labs/5_Solving_linear_system.pdf">Lab 5</a> | Solving Linear Systems | 10/27 @ night  |
 | <a href="labs/6_Iterative_Methods.pdf">Lab 6</a> | Iterative Methods | 11/03 @ night |
-| <a href="labs/7_Nonlinear_system.pdf">Lab 7</a> | Solving Nonlinear Systems | TBA |
+| <a href="labs/7_Nonlinear_system.pdf">Lab 7</a> | Solving Nonlinear Systems | 11/10 @ night|
 | <a href="labs/8_Solving_ODE.pdf">Lab 8</a> | Solving Ordinary Differentiation Equations | TBA |
 | <a href="labs/9_Regression.pdf">Lab 9</a> | Linear Regression (<a href="labs/car_efficiency.csv">car_efficiency.csv</a>) | TBA |
 | <a href="labs/FinalProject.pdf">Final Project</a> | Solving the Heat and Wave Equations using finite difference method | TBA |
