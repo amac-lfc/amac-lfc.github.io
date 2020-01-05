@@ -1,3 +1,3 @@
-# LFC-MATH-CS
+# AMAC @ LFC
 
-Github page for Lake Forest College Mathematics and Computer Science department.
+Github page for AMAC Lab at Lake Forest College
