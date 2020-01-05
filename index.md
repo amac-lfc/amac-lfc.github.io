@@ -5,7 +5,7 @@ layout: default
 <div class="container">
   <div class="contents">
   <center>
-    <h3> GitHub's page for Lake Forest College Mathematics and Computer Science Deparment</h3>
+    <h3> Applied Mathematics and Advanced Computation Lab at Lake Forest College</h3>
   </center>
   </div>
 </div>
