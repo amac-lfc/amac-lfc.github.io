@@ -18,7 +18,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $heading-fonts;
-  color: $cyan;
+  // color: $cyan;
   margin:0 0 10px;
   font-weight: normal;
 }
@@ -32,7 +32,7 @@ p, ul, ol, table, pre, dl {
 // }
 
 h1 {
-  color:$green;
+  color:$cyan;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   font-size: 2rem;
@@ -48,24 +48,24 @@ h2{
 }
 
 h3{
-  color:$foreground;
+  // color:$foreground;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   font-size: 1.5rem;
 }
 
 h4{
-  color:$foreground;
+  // color:$foreground;
   font-size: 1.25rem;
 }
 
 h5{
-  color:$foreground;
+  // color:$foreground;
   font-size: 1.1rem;
 }
 
 h6{
-  color:$foreground;
+  // color:$foreground;
   font-size: 1.0rem;
 }
 // h2 {
@@ -125,12 +125,12 @@ a {
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
   color : $green;
-  border-bottom: 2px solid #50fa7a62;
+  // border-bottom: 2px solid #50fa7a62;
 
   &:hover {
     text-decoration: none;
     color: $yellow;
-    border-bottom: 2px solid #f1fa8c;
+    border-bottom: 2px solid $green;
   }
 }
 
