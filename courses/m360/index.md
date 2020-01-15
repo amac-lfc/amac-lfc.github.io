@@ -21,7 +21,7 @@ In order to write your programs you will need
 * The Python3 libraries: numpy, scipy, matplotlib, simpy.
 * An IDE: <a href="https://code.visualstudio.com/">Visual Studio Code</a> or <a href="https://atom.io/">Atom</a>
 
-You can try this <a href="/courses/m240/labslabs/0.pdf">Pratice Lab </a>  to test your Python's skills.
+You can try this <a href="/courses/m240/labs/0.pdf">Pratice Lab </a>  to test your Python's skills.
 
 ## Assigments
 
