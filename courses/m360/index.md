@@ -94,8 +94,7 @@ see Moodle.
       <h5 class="card-title">Numerical Solution of Partial Differential Equations by the Finite Element Method</h5>
       <h6 class="card-subtitle mb-2 text-muted">By Claes Johnson</h6>
       <p class="card-text">
-          Covers basic topics as well as approximation methods, construction of algorithms,
-          iteration methods, error analysis, stability, ...
+          An accessible introduction to the finite element method for solving numeric problems, this volume offers the keys to an important technique in computational mathematics.
       </p>
     </div>
   </div>
