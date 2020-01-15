@@ -4,8 +4,8 @@ layout: default
 
 
 
-# MATH/CSCI 240
-<i>Introduction to Computational Mathematics</i>
+# MATH/CSCI 360
+<i>Mathematical Modeling</i>
 
 ## Instruction
 
@@ -21,23 +21,11 @@ In order to write your programs you will need
 * The Python3 libraries: numpy, scipy, matplotlib, simpy.
 * An IDE: <a href="https://code.visualstudio.com/">Visual Studio Code</a> or <a href="https://atom.io/">Atom</a>
 
+You can try this <a href="/courses/m240/labslabs/0.pdf">Pratice Lab </a>  to test your Python's skills.
 
 ## Assigments
 
-
-| Labs         | Descriptions      | Due Date |
-|:-------------|:------------------|:------|
-| <a href="labs/0.pdf">Lab 0</a> | Introduction to Python ( [Solution](labs/solution_Lab0.zip) ) | 09/03 @ 1:00 pm |
-| <a href="labs/1_Taylor.pdf">Lab 1</a>| Taylor Polynomials | 09/13 @ 7:00 pm |
-| <a href="labs/2_Rootfinding.pdf">Lab 2</a> | Roots Finding | 09/23 @ 11:00 pm |
-| <a href="labs/3_Polynomial_Interpolation.pdf">Lab 3</a> | Polynomials of Interpolation| 10/06 @ 4:00 pm |
-| <a href="labs/4_integration_differentiation.pdf">Lab 4</a> | Integration an Differentiation | 10/13 @ 4:00 pm |
-| <a href="labs/5_Solving_linear_system.pdf">Lab 5</a> | Solving Linear Systems | 10/27 @ night  |
-| <a href="labs/6_Iterative_Methods.pdf">Lab 6</a> | Iterative Methods | 11/03 @ night |
-| <a href="labs/7_Nonlinear_system.pdf">Lab 7</a> | Solving Nonlinear Systems | 11/10 @ night|
-| <a href="labs/8_Solving_ODE.pdf">Lab 8</a> | Solving Ordinary Differentiation Equations | 11/19 @ night |
-| <a href="labs/9_Regression.pdf">Lab 9</a> | Linear Regression (<a href="labs/car_efficiency.csv">car_efficiency.csv</a>) | TBA |
-| <a href="labs/FinalProject.pdf">Final Project</a> | Solving the Heat and Wave Equations using finite difference method | TBA |
+see Moodle.
 
 ## Resources
 
@@ -98,34 +86,16 @@ In order to write your programs you will need
 
 ## Books
 
-### For M240 (not required but good to have)
+
 
 <div class="row">
   <div class="col-sm-4 py-2">
     <div class="card card-body h-100">
-      <h5 class="card-title">Elementary Numerical Analysis</h5>
-      <h6 class="card-subtitle mb-2 text-muted">By Kendall Atkinson, Weimin Han</h6>
+      <h5 class="card-title">Numerical Solution of Partial Differential Equations by the Finite Element Method</h5>
+      <h6 class="card-subtitle mb-2 text-muted">By Claes Johnson</h6>
       <p class="card-text">
           Covers basic topics as well as approximation methods, construction of algorithms,
           iteration methods, error analysis, stability, ...
-      </p>
-    </div>
-  </div>
-  <div class="col-sm-4 py-2">
-    <div class="card h-100 card-body">
-    <h5 class="card-title">Numerical Analysis</h5>
-      <h6 class="card-subtitle mb-2 text-muted">By Richard L. Burden, J. Douglas Faires, Annette M. Burden</h6>
-      <p class="card-text">
-        This book introduces readers to the theory and application of modern numerical approximation techniques.
-        </p>
-    </div>
-  </div>
-  <div class="col-sm-4 py-2">
-    <div class="card card-body h-100">
-      <h5 class="card-title">Introduction to Computational Mathematics</h5>
-      <h6 class="card-subtitle mb-2 text-muted">By Xin-She Yang</h6>
-      <p class="card-text">
-      This book provides a comprehensive introduction to computational Mathematics
       </p>
     </div>
   </div>
