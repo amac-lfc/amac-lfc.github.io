@@ -17,17 +17,17 @@ layout: default
   <div class="row">
     <div class="col-sm-6 py-2">
       <div class="card card-body h-100">
-        <h5 class="card-title"><a href="courses/m240/index.html">MATH/CSCI 240</a></h5>
+        <h5 class="card-title"><a href="courses/m360/index.html">MATH/CSCI 360</a></h5>
         <p class="card-text">
-        Introduction to Computational Mathematics
+        Mathematical Modeling
         </p>
       </div>
     </div>
     <div class="col-sm-6 py-2">
       <div class="card card-body h-100">
-        <h5 class="card-title"><a href="courses/m360/index.html">MATH/CSCI 360</a></h5>
+        <h5 class="card-title"><a href="courses/m240/index.html">MATH/CSCI 240</a></h5>
         <p class="card-text">
-        Mathematical Modeling
+        Introduction to Computational Mathematics
         </p>
       </div>
     </div>
