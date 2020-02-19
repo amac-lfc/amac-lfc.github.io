@@ -12,9 +12,12 @@ layout: default
 * [colah's blog](http://colah.github.io/)
 * [Explained.ai](https://explained.ai/)
 * [Write With Transformer ](https://transformer.huggingface.co/) (NLP)
+* [Towards Data Science](https://towardsdatascience.com/)
 
 ## Books
 * [Data Science Essentials](https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/DataScienceEssentials.pdf), Fundations of Applied Mathematics
+* [Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+  
 
 ## Online Courses
 * [Machine Learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-US&campaignid=685340575&adgroupid=52515609594&device=c&keyword=machine%20learning%20mooc&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=243289762946&hide_mobile_promo&gclid=EAIaIQobChMIh7n9nIWo4wIVmODICh3RVAciEAAYASAAEgKYWvD_BwE), Coursera
