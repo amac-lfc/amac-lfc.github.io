@@ -10,7 +10,8 @@ layout: default
 * [WILDML](http://www.wildml.com/)
 * [i am trask](https://iamtrask.github.io/)
 * [colah's blog](http://colah.github.io/)
-* * [Explained.ai](https://explained.ai/)
+* [Explained.ai](https://explained.ai/)
+* [Write With Transformer ](https://transformer.huggingface.co/) (NLP)
 
 ## Books
 * [Data Science Essentials](https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/DataScienceEssentials.pdf), Fundations of Applied Mathematics
