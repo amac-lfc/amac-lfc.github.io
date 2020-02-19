@@ -13,3 +13,7 @@ layout: default
 * [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/), MIT OCW 
 * [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW), edX
 
+
+## Websites
+
+* [Matrices for ML](https://explained.ai/matrix-calculus/index.html)
