@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Learning Python
+# Learning Statistics
 
 ## Books
 * [Principal Component Analysis](http://www.dsc.ufcg.edu.br/~hmg/disciplinas/posgraduacao/rn-copin-2014.3/material/SignalProcPCA.pdf), Mark Richardson
