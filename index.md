@@ -98,12 +98,12 @@ AMAC</span></h1> -->
 
 <div class="row">
     <div class="col-md">
- <b>Predict the number of people infected by COVID-19 using the positive test rate.</b><br>
+ <b>How the positive test rate affect the number of new cases of COVID-19.</b><br>
   <i>With Omer Sadat, Nelli Vardanyann</i><br>
   <a href="https://rate-covid19.herokuapp.com/" class="badge badge-primary">Our Dashboard</a>
     </div>
     <div class="col-md">
- <b>See how a virus would spread at Lake Forest College using Graph and Network analysis.</b><br>
+ <b>Modeling the spread of a virus at Lake Forest College using Graph and Network analysis.</b><br>
   <i>With Joao Godoy, Jan Roessler, Ryan Kropp, Lionel Whitehead</i>
     </div>
 </div>
