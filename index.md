@@ -96,8 +96,6 @@ AMAC</span></h1> -->
 *   <b> Statistical analysis on the intensity and rate of helmet contacts in college football.</b><br>
   <i>Emma Juettner</i> -->
 
-Omer Sadat, William Conrad, Nelli Vardanyann
-
 <div class="row">
     <div class="col-md">
  <b>Predict the number of people infected by COVID-19 using the positive test rate.</b><br>
