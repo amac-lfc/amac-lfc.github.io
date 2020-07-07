@@ -105,9 +105,13 @@ Omer Sadat, William Conrad, Nelli Vardanyann
     <div class="col-md">
  <b>Predict the number of people infected by COVID-19 using the positive test rate.</b><br>
   <i>With Omer Sadat, Nelli Vardanyann</i><br>
-  <a href="https://rate-covid19.herokuapp.com/" class="badge badge-primary">Our Dashboardp</a>
+  <a href="https://rate-covid19.herokuapp.com/" class="badge badge-primary">Our Dashboar</a>
     </div>
     <div class="col-md">
+ <b>See how a virus would spread at Lake Forest College using Graph and Network analysis.</b><br>
+  <i>With Joao Godoy, Jan Roessler, Ryan Kropp, Lionel Whitehead
+ </i><br>
+  <a href="https://rate-covid19.herokuapp.com/" class="badge badge-primary">Our Dashboar</a>
     </div>
 </div>
 <div class="row">
