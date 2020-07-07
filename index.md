@@ -103,28 +103,30 @@ Applied Mathematics & Advanced Computation Lab at Lake Forest College
 <div class="row">
     <div class="col-md">
  <b> Multilevel Methods for Finite Volume methods for the Shallow Water Equations.</b><br>
-  <i>Dipika Subramaniam</i>
+  <i>With Dipika Subramaniam</i>
     </div>
     <div class="col-md">
-<b> Machine learning to predict if a comment will change the view of the OP in the subreddit Change My View. </b><br>
-   <i>Leonardo Carrico and Funded by the James Rocco Fellowship</i>
+<b> Machine learning to predict if a comment will change the view of the OP in the subreddit Change My View.</b><br>
+   <i>With Leonardo Carrico</i><br>
+   <a href="https://github.com/amac-lfc/CMV" class="badge badge-dark">Github</a><a href="https://cmvcheck.herokuapp.com" class="badge badge-primary">Our App</a>
     </div>
 </div>
 <div class="row">
     <div class="col-md">
 <b> Machine learning and statistical algorithms on the human genome to predict colorectal cancer.</b><br>
-  <i>Fenn Napier and Funded by the James Rocco Fellowship</i><br>
-  <a href="https://github.com/amac-lfc/dna-code" class="badge badge-secondary">Github</a>
+  <i>With Fenn Napier</i><br>
+  <a href="https://github.com/amac-lfc/dna-code" class="badge badge-dark">Github</a>
     </div>
     <div class="col-md">
 <b>Predicting the topics of a new year resolution tweet based on the  gender  of the person who made the tweet and the region where the tweet was made.</b><br>
-  <i>Lauren Giurini</i><br>
+  <i>With Lauren Giurini</i><br>
+  <a href="https://github.com/amac-lfc/twitter-resolution" class="badge badge-dark">Github</a>
     </div>
 </div>
 <div class="row">
     <div class="col-md">
 <b> Statistical analysis on the intensity and rate of helmet contacts in college football.</b><br>
-  <i>Emma Juettner</i>
+  <i>With Emma Juettner</i>
     </div>
     <div class="col-md">
     </div>
