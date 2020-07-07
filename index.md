@@ -99,7 +99,17 @@ Applied Mathematics & Advanced Computation Lab at Lake Forest College
 *   <b> Statistical analysis on the intensity and rate of helmet contacts in college football.</b><br>
   <i>Emma Juettner</i> -->
 
+Omer Sadat, William Conrad, Nelli Vardanyann
 
+<div class="row">
+    <div class="col-md">
+ <b>Predict the number of people infected by COVID-19 using the positive test rate.</b><br>
+  <i>With Omer Sadat, Nelli Vardanyann</i><br>
+  <a href="https://rate-covid19.herokuapp.com/" class="badge badge-primary">Our Dashboardp</a>
+    </div>
+    <div class="col-md">
+    </div>
+</div>
 <div class="row">
     <div class="col-md">
  <b> Multilevel Methods for Finite Volume methods for the Shallow Water Equations.</b><br>
