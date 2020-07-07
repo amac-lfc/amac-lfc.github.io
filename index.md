@@ -108,7 +108,7 @@ Applied Mathematics & Advanced Computation Lab at Lake Forest College
     <div class="col-md">
 <b> Machine learning to predict if a comment will change the view of the OP in the subreddit Change My View.</b><br>
    <i>With Leonardo Carrico</i><br>
-   <a href="https://github.com/amac-lfc/CMV" class="badge badge-dark">Github</a><a href="https://cmvcheck.herokuapp.com" class="badge badge-primary">Our App</a>
+   <a href="https://github.com/amac-lfc/CMV" class="badge badge-dark">Github</a>&nbsp;<a href="https://cmvcheck.herokuapp.com" class="badge badge-primary">Our App</a>
     </div>
 </div>
 <div class="row">
