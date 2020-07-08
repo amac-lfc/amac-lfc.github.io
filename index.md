@@ -100,7 +100,7 @@ AMAC</span></h1> -->
     <div class="col-md">
  <b>How the positive test rate affect the number of new cases of COVID-19.</b><br>
   <i>With Omer Sadat, Nelli Vardanyann</i><br>
-  <a href="https://covid.amac.xyz/" class="badge badge-primary">Our Dashboard</a>
+  <a href="http://covid.amac.xyz/" class="badge badge-primary">Our Dashboard</a>
     </div>
     <div class="col-md">
  <b>Modeling the spread of a virus at Lake Forest College using Graph and Network analysis.</b><br>
@@ -115,7 +115,7 @@ AMAC</span></h1> -->
     <div class="col-md">
 <b> Machine learning to predict if a comment will change the view of the OP in the subreddit Change My View.</b><br>
    <i>With Leonardo Carrico</i><br>
-   <a href="https://github.com/amac-lfc/CMV" class="badge badge-dark">Github</a>&nbsp;&nbsp;<a href="https://cmvcheck.amac.xyz" class="badge badge-primary">Our App</a>
+   <a href="https://github.com/amac-lfc/CMV" class="badge badge-dark">Github</a>&nbsp;&nbsp;<a href="http://cmvcheck.amac.xyz" class="badge badge-primary">Our App</a>
     </div>
 </div>
 <div class="row">
