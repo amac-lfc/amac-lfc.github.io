@@ -9,17 +9,10 @@ layout: default
 
 ## Instruction
 
-You will submit you work through your **GitHub repository**, see the <a href="/guides/github_guide.html">GuitHub's guide</a> to know more. Your submission should contain
-* A <b>report</b> in PDF format. To write our report you can use <b>Word</b> or <b>LaTeX</b>. I recommend
-<a href="https://typora.io/">Typora</a>,  <a href="https://www.overleaf.com/">Overleaf</a>,  or <a href="https://www.lyx.org/">LyX</a>.
-* A <b>README</b> explaining which files to run. Your readme needs to be called `README.md` and should be written in Markdown. To write in Markdown you can use <a href="https://code.visualstudio.com/">Visual Studio Code</a>, <a href="https://atom.io/">Atom</a>, <a href="https://remarkableapp.github.io/">Remarkable App</a>.
-* All your <b>Python's files</b>. (.py).
-<br/>
+You will submit you work through your **GitHub repository**, see the <a href="/guides/github_guide.html">GuitHub's guide</a> to know more. Your submission will be in the form on jupyter notebook, see [installation guide](install.html).
 
-In order to write your programs you will need
-* <a href="https://www.python.org/downloads/">Python3</a> (I recommend to install the 64 bits version)
-* The Python3 libraries: numpy, scipy, matplotlib, simpy.
-* An IDE: <a href="https://code.visualstudio.com/">Visual Studio Code</a> or <a href="https://atom.io/">Atom</a>
+
+Each of your submission needs to be in its own folder.
 
 
 ## Assigments
@@ -27,8 +20,8 @@ In order to write your programs you will need
 
 | Labs         | Descriptions      | Due Date |
 |:-------------|:------------------|:------|
-| <a href="labs/0.pdf">Lab 0</a> | Introduction to Python ( [Solution](labs/solution_Lab0.zip) ) | 09/03 @ 1:00 pm |
-| <a href="labs/1_Taylor.pdf">Lab 1</a>| Taylor Polynomials | 09/13 @ 7:00 pm |
+| <a href="labs/0.pdf">PDF</a>, <a href="labs/0_exercises.pdf">Notebook</a> | Introduction to Python | 08/26 |
+<!-- | <a href="labs/1_Taylor.pdf">Lab 1</a>| Taylor Polynomials | 09/13 @ 7:00 pm |
 | <a href="labs/2_Rootfinding.pdf">Lab 2</a> | Roots Finding | 09/23 @ 11:00 pm |
 | <a href="labs/3_Polynomial_Interpolation.pdf">Lab 3</a> | Polynomials of Interpolation| 10/06 @ 4:00 pm |
 | <a href="labs/4_integration_differentiation.pdf">Lab 4</a> | Integration an Differentiation | 10/13 @ 4:00 pm |
@@ -37,7 +30,7 @@ In order to write your programs you will need
 | <a href="labs/7_Nonlinear_system.pdf">Lab 7</a> | Solving Nonlinear Systems | 11/10 @ night|
 | <a href="labs/8_Solving_ODE.pdf">Lab 8</a> | Solving Ordinary Differentiation Equations | 11/19 @ night |
 | <a href="labs/9_Regression.pdf">Lab 9</a> | Linear Regression (<a href="labs/car_efficiency.csv">car_efficiency.csv</a>) | TBA |
-| <a href="labs/FinalProject.pdf">Final Project</a> | Solving the Heat and Wave Equations using finite difference method | TBA |
+| <a href="labs/FinalProject.pdf">Final Project</a> | Solving the Heat and Wave Equations using finite difference method | TBA | -->
 
 ## Resources
 
