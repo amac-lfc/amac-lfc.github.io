@@ -7,10 +7,10 @@ For this class we will use Python 3 and the following libraries:
 * **Scipy**: another package for scientific computing.
 * **Matplotlib**: library for plotting.
 
-First you need to install Python 3. You can download is from the Python [Official Website](https://www.python.org/downloads/). .}
+First you need to install Python 3. You can download is from the Python [Official Website](https://www.python.org/downloads/).
 
 <div class="alert alert-primary" role="alert">
-  Be careful to download the 64-bit version of Python and also check 'pip' and **ADD TO THE PATH** when you install.
+  Be careful to download the 64-bit version of Python and also check 'pip' and <b>ADD TO THE PATH</b> when you install.
 </div>
 
 
