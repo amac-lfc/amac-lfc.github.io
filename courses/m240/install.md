@@ -9,7 +9,7 @@ For this class we will use Python 3 and the following libraries:
 
 First you need to install Python 3. You can download is from the Python [Official Website](https://www.python.org/downloads/).
 
-<div class="alert alert-danger" role="alert">
+<div class="alert alert-ddanger" role="alert">
   Be careful to download the 64-bit version of Python and also check 'pip' and <b>ADD TO THE PATH</b> when you install.
 </div>
 
