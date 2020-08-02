@@ -9,7 +9,7 @@ For this class we will use Python 3 and the following libraries:
 
 First you need to install Python 3. You can download is from the Python [Official Website](https://www.python.org/downloads/).
 
-<div class="alert alert-primary" role="alert">
+<div class="alert alert-danger" role="alert">
   Be careful to download the 64-bit version of Python and also check 'pip' and <b>ADD TO THE PATH</b> when you install.
 </div>
 
@@ -17,7 +17,7 @@ First you need to install Python 3. You can download is from the Python [Officia
 Then you can use pip (or pip3) to install the libraries. First open a terminal if you are on Mac/Linux or Windows PowerShell on Windows. In there you will have to type
 <pre class="command-line"><code class="language-bash">pip install numpy scipy matplotlib</code></pre>
 
-<div class="alert alert-primary" role="alert">
+<div class="alert alert-danger" role="alert">
   On some system it is not pip but pip3. Test it by typing `pip --version` or `pip3 --version` to see which one works.
 </div>
 
