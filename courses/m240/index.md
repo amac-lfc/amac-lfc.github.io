@@ -21,16 +21,16 @@ Each of your submission needs to be in its own folder.
 | Labs         | Descriptions      | Due Date |
 |:-------------|:------------------|:------|
 | <a href="labs/0.pdf">PDF</a>, <a href="labs/0_exercises.pdf">Notebook</a> | Introduction to Python | 08/26 |
-<!-- | <a href="labs/1_Taylor.pdf">Lab 1</a>| Taylor Polynomials | 09/13 @ 7:00 pm |
-| <a href="labs/2_Rootfinding.pdf">Lab 2</a> | Roots Finding | 09/23 @ 11:00 pm |
-| <a href="labs/3_Polynomial_Interpolation.pdf">Lab 3</a> | Polynomials of Interpolation| 10/06 @ 4:00 pm |
-| <a href="labs/4_integration_differentiation.pdf">Lab 4</a> | Integration an Differentiation | 10/13 @ 4:00 pm |
-| <a href="labs/5_Solving_linear_system.pdf">Lab 5</a> | Solving Linear Systems | 10/27 @ night  |
-| <a href="labs/6_Iterative_Methods.pdf">Lab 6</a> | Iterative Methods | 11/03 @ night |
-| <a href="labs/7_Nonlinear_system.pdf">Lab 7</a> | Solving Nonlinear Systems | 11/10 @ night|
-| <a href="labs/8_Solving_ODE.pdf">Lab 8</a> | Solving Ordinary Differentiation Equations | 11/19 @ night |
-| <a href="labs/9_Regression.pdf">Lab 9</a> | Linear Regression (<a href="labs/car_efficiency.csv">car_efficiency.csv</a>) | TBA |
-| <a href="labs/FinalProject.pdf">Final Project</a> | Solving the Heat and Wave Equations using finite difference method | TBA | -->
+| | Taylor Polynomials |  |
+|  | Roots Finding | |
+| | Polynomials of Interpolation|  |
+|  | Integration an Differentiation |  |
+|  | Solving Linear Systems |   |
+|| Iterative Methods |  |
+|  | Solving Nonlinear Systems | |
+|  | Solving Ordinary Differentiation Equations |  |
+|  | Linear Regression (<a href="labs/car_efficiency.csv">car_efficiency.csv</a>) | |
+| | Solving the Heat and Wave Equations using finite difference method | |
 
 ## Resources
 
