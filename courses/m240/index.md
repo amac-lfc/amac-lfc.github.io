@@ -9,7 +9,7 @@ layout: default
 
 ## Instruction
 
-You will submit you work through your **GitHub repository**, see the <a href="/guides/github_guide.html">GuitHub's guide</a> to know more. Your submission will be in the form on jupyter notebook, see [installation guide](install.html).
+Your submission will be in the form on jupyter notebook, see [installation guide](install.html).
 
 
 Each of your submission needs to be in its own folder.

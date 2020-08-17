@@ -9,7 +9,7 @@ For this class we will use Python 3 and the following libraries:
 
 First you need to install Python 3. You can download is from the Python [Official Website](https://www.python.org/downloads/).
 
-<div class="alert alert-ddanger" role="alert">
+<div class="alert alert-danger" role="alert">
   Be careful to download the 64-bit version of Python and also check 'pip' and <b>ADD TO THE PATH</b> when you install.
 </div>
 
@@ -32,8 +32,3 @@ Once it is installed, you open a terminal/powershell in the folder where you wan
 <pre class="command-line"><code class="language-bash">jupyter notebook</code></pre>
 or
 <pre class="command-line"><code class="language-bash">jupyter lab</code></pre>
-
-
-## Github
-
-For github, you should read the [Github Guide](http://www.amac.xyz/guides/github_guide.html). You could also watch this [video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
