@@ -20,7 +20,7 @@ Each of your submission needs to be in its own folder.
 
 | Labs         | Descriptions      | Due Date |
 |:-------------|:------------------|:------|
-| <a href="labs/0.pdf">PDF</a>, <a href="labs/0_exercises.ipynb">Notebook</a> | Introduction to Python | 08/26 |
+| LAB 0: <a href="labs/0.pdf">PDF</a>, <a href="labs/0_exercises.ipynb">Notebook</a> | Introduction to Python | 08/26 |
 | | Taylor Polynomials |  |
 |  | Roots Finding | |
 | | Polynomials of Interpolation|  |
