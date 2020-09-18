@@ -22,8 +22,8 @@ Each of your submission needs to be in its own folder.
 |:-------------|:------------------|:------|
 | LAB 0: <a href="labs/0.pdf">PDF</a>, <a href="labs/0_exercises.ipynb">Notebook</a> | Introduction to Python | 08/26 |
 | LAB 1: <a href="labs/1_Taylor.pdf">PDF</a>, <a href="labs/lab_1.ipynb">Notebook</a>| Taylor Polynomials |  |
-|  LAB 2: <a href="labs/2_Rootfinding.pdf">PDF</a>, <a href="labs/lab_2.ipynb">Notebook</a>| Roots Finding | |
-| | Polynomials of Interpolation|  |
+| LAB 2: <a href="labs/2_Rootfinding.pdf">PDF</a>, <a href="labs/lab_2.ipynb">Notebook</a>| Roots Finding | |
+| LAB 2: the sequel, <a href="labs/special_lab_2.ipynb">Notebook</a>| Roots Finding: Applications | |
 |  | Integration an Differentiation |  |
 |  | Solving Linear Systems |   |
 || Iterative Methods |  |
