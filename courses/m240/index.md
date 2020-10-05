@@ -26,10 +26,10 @@ Each of your submission needs to be in its own folder.
 | LAB 2: the sequel, <a href="labs/special_lab_2.ipynb">Notebook</a>| Roots Finding: Applications | |
 | LAB 3: <a href="labs/3_integration_differentiation.pdf">PDF</a>, <a href="labs/lab_3.ipynb">Notebook</a> | Integration an Differentiation |  |
 | LAB 3: the sequel <a href="labs/special_lab_3.ipynb">Notebook</a> | Integration an Differentiation |  |
+| LAB 3: <a href="labs/4_Ordinary_Differential_Equations.pdf">PDF</a>, <a href="labs/lab_4.ipynb">Notebook</a> | Solving Ordinary Differentiation Equations |  |
 |  | Solving Linear Systems |   |
 || Iterative Methods |  |
 |  | Solving Nonlinear Systems | |
-|  | Solving Ordinary Differentiation Equations |  |
 |  | Linear Regression (<a href="labs/car_efficiency.csv">car_efficiency.csv</a>) | |
 | | Solving the Heat and Wave Equations using finite difference method | |
 
