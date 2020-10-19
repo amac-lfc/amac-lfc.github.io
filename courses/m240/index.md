@@ -28,7 +28,7 @@ Each of your submission needs to be in its own folder.
 | LAB 3: the sequel <a href="labs/special_lab_3.ipynb">Notebook</a> | Integration an Differentiation |  |
 | LAB 4: <a href="labs/4_Ordinary_Differential_Equations.pdf">PDF</a>, <a href="labs/lab_4.ipynb">Notebook</a> | Solving Ordinary Differentiation Equations |  |
 | LAB 4: the sequel <a href="labs/special_lab_4.ipynb">Notebook</a>| Solving Ordinary Differentiation Equations |  |
-|  | Solving Linear Systems |   |
+| LAB 5: <a href="labs/5_Solving_linear_system.pdf">PDF</a>, <a href="labs/lab_5.ipynb">Notebook</a>, <a href="labs/lab_5_exercises.ipynb">Exercises</a>| Solving Linear Systems |   |
 || Iterative Methods |  |
 |  | Solving Nonlinear Systems | |
 |  | Linear Regression (<a href="labs/car_efficiency.csv">car_efficiency.csv</a>) | |
