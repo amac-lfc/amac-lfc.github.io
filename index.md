@@ -103,7 +103,7 @@ AMAC</span></h1> -->
     </div>
     <div class="col-md">
  <b>Face and Marsk Recognition.</b><br>
-  <i>With Arnur Sabet</i>
+  <i>With Arnur Sabet</i><br>
   <a href="https://github.com/amac-lfc/frsystem" class="badge badge-dark">GitHub</a>
     </div>
 </div>
