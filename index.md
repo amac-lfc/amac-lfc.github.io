@@ -95,7 +95,18 @@ AMAC</span></h1> -->
    <a href="https://github.com/amac-lfc/twitter-resolution" class="badge badge-secondary">Github</a>
 *   <b> Statistical analysis on the intensity and rate of helmet contacts in college football.</b><br>
   <i>Emma Juettner</i> -->
-
+<div class="row">
+    <div class="col-md">
+ <b>Predicting Airbnb prices in Chicago.</b><br>
+  <i>With Samvel Gevorgyan</i><br>
+  <a href="https://github.com/amac-lfc/airbnb" class="badge badge-dark">GitHub</a>
+    </div>
+    <div class="col-md">
+ <b>Face and Marsk Recognition.</b><br>
+  <i>With Arnur Sabet</i>
+  <a href="https://github.com/amac-lfc/frsystem" class="badge badge-dark">GitHub</a>
+    </div>
+</div>
 <div class="row">
     <div class="col-md">
  <b>How the positive test rate affect the number of new cases of COVID-19.</b><br>
