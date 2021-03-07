@@ -126,19 +126,19 @@ AMAC</span></h1> -->
     <div class="col-md">
 <b> Machine learning to predict if a comment will change the view of the OP in the subreddit Change My View.</b><br>
    <i>With Leonardo Carrico</i><br>
-   <a href="https://github.com/amac-lfc/CMV" class="badge badge-dark">Github</a>&nbsp;&nbsp;<a href="http://cmvcheck.amac.xyz" class="badge badge-primary">Our App</a>
+   <a href="https://github.com/amac-lfc/CMV" class="badge badge-dark">GitHub</a>&nbsp;&nbsp;<a href="http://cmvcheck.amac.xyz" class="badge badge-primary">Our App</a>
     </div>
 </div>
 <div class="row">
     <div class="col-md">
 <b> Machine learning and statistical algorithms on the human genome to predict colorectal cancer.</b><br>
   <i>With Fenn Napier</i><br>
-  <a href="https://github.com/amac-lfc/dna-code" class="badge badge-dark">Github</a>
+  <a href="https://github.com/amac-lfc/dna-code" class="badge badge-dark">GitHub</a>
     </div>
     <div class="col-md">
 <b>Predicting the topics of a new year resolution tweet based on the  gender  of the person who made the tweet and the region where the tweet was made.</b><br>
   <i>With Lauren Giurini</i><br>
-  <a href="https://github.com/amac-lfc/twitter-resolution" class="badge badge-dark">Github</a>
+  <a href="https://github.com/amac-lfc/twitter-resolution" class="badge badge-dark">GitHub</a>
     </div>
 </div>
 <div class="row">
